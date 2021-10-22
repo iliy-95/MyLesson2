@@ -10,8 +10,12 @@
     <string name="plus">+</string>
     <string name="minus">-</string>
     <string name="_0">0</string>
-    <string name="rav">=</string>
+    <string name="rav"> = </string>
     <string name="dele">/</string>
     <string name="ym">*</string>
     <string name="to">.</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="c">C</string>
+
 </resources>
