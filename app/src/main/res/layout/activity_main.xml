@@ -101,7 +101,6 @@
                 android:layout_weight="1"
                 android:background="@drawable/fon2"
                 android:text="@string/plus"
-                android:textColor="#E64A19"
                 android:textSize="@dimen/textSIZEBUTTON" />
 
             <com.google.android.material.button.MaterialButton
@@ -113,7 +112,6 @@
                 android:layout_weight="1"
                 android:background="@drawable/fon2"
                 android:text="@string/c"
-                android:textColor="#E64A19"
                 android:textSize="@dimen/textSIZEBUTTON" />
         </LinearLayout>
 
@@ -186,7 +184,7 @@
             android:layout_weight="1"
             android:background="@drawable/fon2"
             android:text="@string/_5"
-            android:textColor="#E64A19"
+
             android:textSize="@dimen/textSIZEBUTTON" />
         <com.google.android.material.button.MaterialButton
             android:id="@+id/b6"
@@ -262,7 +260,6 @@
             android:layout_weight="1"
             android:background="@drawable/fon2"
             android:text="@string/rav"
-            android:textColor="#E64A19"
             android:textSize="@dimen/textSIZEBUTTON" />
 
         <com.google.android.material.button.MaterialButton

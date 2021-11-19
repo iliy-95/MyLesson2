@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109296358247",
+    "project_id": "mylesson2-c69ad",
+    "storage_bucket": "mylesson2-c69ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109296358247:android:2d8e5a24bd8263d43795c2",
+        "android_client_info": {
+          "package_name": "com.example.mylesson2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109296358247-6cp1e66cus7qttpad5l5puak3qugdjum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFYTEozX7yThihZ1zyprewovOFg8VUPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109296358247-6cp1e66cus7qttpad5l5puak3qugdjum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
